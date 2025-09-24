@@ -1,0 +1,17 @@
+Starting delivery using astar planner
+Starting at: (0, 0), Fuel left: 1000
+Finding path to package at (1, 1)
+Path search looked at 4 nodes
+Got the package at (1, 1)
+Finding path to delivery point at (7, 7)
+Path search looked at 46 nodes
+Time 5: Moved to (1, 4), fuel: 995
+Time 10: Moved to (3, 7), fuel: 990
+
+Planner used: astar
+Success: True
+Packages delivered: 1/1
+Fuel remaining: 986
+Time elapsed: 14
+Time to compute: 4.547353 seconds
+
