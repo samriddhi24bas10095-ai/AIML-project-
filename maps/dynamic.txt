@@ -1,0 +1,14 @@
+An 8x8 map designed for testing replanning.
+The initial obstacles are static. The "dynamic" aspect is
+that the agent should be able to re-route if an unexpected
+obstacle were to appear on its path.
+Agent starts at S(0,0).
+Package at P(1,1) needs to go to G(7,7).
+S 1 1 1 1 1 1 1
+1 P 1 1 1 1 1 1
+1 1 X X 1 1 1 1
+1 1 1 X 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 G
