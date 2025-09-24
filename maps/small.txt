@@ -1,0 +1,8 @@
+Small 5x5 map for basic testing.
+Agent starts at S(0,0).
+Package at P(1,1) needs to go to G(4,4).
+S 1 1 1 1
+1 P 1 1 1
+1 1 X 1 1
+1 X 1 1 1
+1 1 1 1 G
